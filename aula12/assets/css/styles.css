@@ -1,0 +1,58 @@
+/* .heading {
+    transition: all 300ms ease-in-out;
+}
+
+.heading:hover {
+    background: gray;
+}
+
+a {
+    color: yellowgreen;
+}
+
+a:link {
+    color: teal;
+}
+
+a:visited {
+    color: sienna;
+}
+
+a:hover {
+    background: darkslategray;
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    background: darkblue;
+    color: white;
+    text-decoration: none;
+}
+
+input:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    outline: none;
+    border: 1px solid black;
+}
+
+input:disabled {
+    background: red;
+    cursor: not-allowed;
+}
+
+input:checked + p {
+    background: green;
+} */
+
+.pai .lista li:first-child {
+    background: red;
+}
+
+.pai .lista li:last-child {
+    background: red;
+}
+
+input:required {
+    background: rgba(255, 0, 0, 0.3);
+}

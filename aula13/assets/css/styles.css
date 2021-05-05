@@ -1,0 +1,55 @@
+/* p:not(.meio) {
+    color: blue;
+}
+
+input:not(:checked) + p {
+    background: rebeccapurple;
+} */
+
+/* ul li:nth-child(7) {
+    background-color: blueviolet;
+} */
+
+/* ul li:nth-child(even) {
+    background-color: blueviolet;
+} */
+
+/* ul li:nth-child(odd) {
+    background-color: blueviolet;
+} */
+
+/* ul li:nth-child(3n) {
+    background-color: aqua;
+} */
+
+/* ul li:nth-child(3n+5) {
+    background-color: aqua;
+} */
+
+/* ul li::after {
+    content: ' - ';
+} */
+
+/* p::first-letter {
+    font-size: 50px;
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+p::first-line {
+    background: red;
+}
+
+p::selection {
+    background: black;
+    color: white;
+} */
+
+/* ::placeholder {
+    background: rgba(0, 0, 255, 0.2);
+} */
+
+.form-field::placeholder {
+    background: rgba(0, 0, 255, 0.2);
+}

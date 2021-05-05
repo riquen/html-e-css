@@ -1,0 +1,46 @@
+/* body#b.bclass p#p.p {
+    background: palegoldenrod;
+}
+
+#p {
+    background: blue;
+}
+
+.p {
+    background: yellow;
+}
+
+#p.p {
+    background: red;
+}
+
+p#p {
+    background: darkgray;
+}
+
+p#p.p {
+    background: darksalmon;
+}
+
+#b p#p.p {
+    background: green;
+}
+
+body#b p#p.p {
+    background:purple;
+}
+
+p {
+    background: darkkhaki !important;
+} */
+
+/* body {
+    font-family: sans-serif;
+    color: palevioletred;
+} */
+
+#texto {
+    font-family: sans-serif;
+    color: brown;
+    font-size: 30px;
+}
